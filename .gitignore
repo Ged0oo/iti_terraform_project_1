@@ -1,0 +1,4 @@
+# Ignore Terraform cache & provider binaries
+.terraform/
+.terraform.lock.hcl
+
